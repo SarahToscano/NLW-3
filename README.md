@@ -1,4 +1,4 @@
-## 💻 Happy Project
+## 💻 Next Level Week #3 - Happy Project
 
 The "Happy" is an RockeatSeat initiative during the Next Level Week #3.
 Happy is a project developed based on Children's Day. 
