@@ -2,19 +2,6 @@
     <img alt="Happy" title="Happy" src=".github/logo.svg" />
 </h1>
 
-<p align="center">
-  <a href="#-tecnologias">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">How to run?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  
-</p>
-
-<p align="center">
-  <img alt="Landing page" src="./layout/landing.png">
-</p>
-
-<br>
-
 
 
 ## 💻 Project
@@ -22,6 +9,14 @@
 The "Happy" is an RockeatSeat initiative during the Next Level Week #3.
 Happy is a project developed based on Children's Day. 
 That aims to connect people to orphanages that allow to make a children's day more special.
+
+## Layout 
+
+<p align="center">
+  <img alt="Landing page" src="./layout/landing.png" width="45">
+</p>
+
+<br>
 
 
 
@@ -34,17 +29,6 @@ In this project were used these technologies:
 <code><img height="25" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></code> 
 
 
-
-
-<h1 align="center">
-    <img alt="NextLevelWeek" title="#NextLevelWeek" src=".github/logo.svg" width="250px" />
-</h1>
-
-<h4 align="center"> 
-	:construction: NextLevelWeek 3.0 🚀 In progress...:construction:
-</h4>
-<p align="center">	
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/DanielObara/NLW-3.0">
 
 
 
