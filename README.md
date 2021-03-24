@@ -35,8 +35,6 @@ To clone and run this application, you'll need [Git](https://git-scm.com), Node.
 
 
 
-From your command line:
-
 ### Install API 
 
 ```bash
