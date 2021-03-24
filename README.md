@@ -26,6 +26,8 @@ In this project were used these technologies:
 <code><img height="25" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code> 
 <code><img height="25" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></code> 
 
+<br/> 
+
 
 ## :information_source: How To run?
 
