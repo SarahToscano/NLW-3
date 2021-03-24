@@ -8,8 +8,8 @@ That aims to connect people to orphanages that allow to make a children's day mo
 
 <p align="center">
   <img alt="Landing page" src="./layout/landing.png" width="600">  <br/>
-  <img alt="Landing page" src="./layout/map.png" width="480">
-  <img alt="Landing page" src="./layout/lar.png" width="460"> <br/>
+  <img alt="Landing page" src="./layout/map.png" width="300">
+  <img alt="Landing page" src="./layout/lar.png" width="300"> <br/>
   <img alt="Landing page" src="./layout/descricao.png" width="450"> 
   <img alt="Landing page" src="./layout/cadastro.png" width="450">
 </p>
