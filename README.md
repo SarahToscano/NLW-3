@@ -4,7 +4,7 @@ The "Happy" is a RockeatSeat initiative during the Next Level Week #3.
 Happy is a project developed based on Children's Day. 
 That aims to connect people to orphanages that allow to make a children's day more special.
 
-## Layout 
+##🎨 Layout 
 
 <p align="center">
   <img alt="Landing page" src="./layout/landing.png" width="600">  <br/>
