@@ -19,13 +19,13 @@ In this project were used these technologies:
 
 <p align="center">
   <img alt="Landing page" src="./layout/web/landing.png" width="800">  <br/>  <br/>
-  <img alt="Landing page" src="./layout/web/cadastrar.png" width="800">
+  <img alt="Landing page" src="./layout/web/localizacoes.png" width="800"> <br/>  <br/>
+  <img alt="Landing page" src="./layout/web/orf1.png" width="800">
+  <img alt="Landing page" src="./layout/web/orf2.png" width="800"> <br/><br/>
+   <img alt="Landing page" src="./layout/web/cadastrar.png" width="800">
   <img alt="Landing page" src="./layout/web/cadastrar2.png" width="800"> <br/>  <br/>
   <img alt="Landing page" src="./layout/web/cadastro-compl1.png" width="800">
   <img alt="Landing page" src="./layout/web/cadastro-compl2.png" width="800">  <br/>  <br/>
-  <img alt="Landing page" src="./layout/web/localizacoes.png" width="800"> <br/>  <br/>
-  <img alt="Landing page" src="./layout/web/orf1.png" width="800">
-  <img alt="Landing page" src="./layout/web/orf2.png" width="800">
 </p>
 
 <br>
