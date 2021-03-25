@@ -7,9 +7,14 @@ That aims to connect people to orphanages that allow to make a children's day mo
 ## 🎨 Layout 
 
 <p align="center">
-  <img alt="Landing page" src="./layout/landing.png" width="600">  <br/>
-  <img alt="Landing page" src="./layout/map.png" width="500">
-  <img alt="Landing page" src="./layout/lar.png" width="500"> 
+  <img alt="Landing page" src="./layout/web/landing.png" width="600">  <br/>
+  <img alt="Landing page" src="./layout/web/cadastrar.png" width="500">
+  <img alt="Landing page" src="./layout/web/cadastrar2.png" width="500">
+  <img alt="Landing page" src="./layout/web/cadastro-compl1.png" width="500">
+  <img alt="Landing page" src="./layout/web/cadastro-compl2.png" width="500">
+  <img alt="Landing page" src="./layout/web/localizacoes.png" width="500">
+  <img alt="Landing page" src="./layout/web/orf1.png" width="500">
+  <img alt="Landing page" src="./layout/web/orf2.png" width="500">
 </p>
 
 <br>
